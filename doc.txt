@@ -1,0 +1,17 @@
+1) Agent - Agent Name
+2) User - firstname, Dob, address, phone number, state, zip code, email, gender, userType
+3) User's Account - Account Name
+4) Policy Category(LOB) - category_name
+5) Policy Carrier - company_name
+6) Policy Info -  policy number, policy start date, policy end date, policy category, collection id , company collection id and user id.
+
+You have to perform the following tasks based above information : 
+Task 1
+1) Create API to upload the attached xlsx/CSV data into Mongodb. (Use worker threads)
+2) Search API to find policy info with the help of username.
+3) API to provide aggregated policy by each user.
+4) Consider each info as different collection in Mongodb (Agent, User, User's Account, LOB, Carrier, Policy).
+
+Task 2:
+1) Track real time cpu utilisation of the node server and on 70% usage restart the server.
+2) Create a post service which takes message, day and time in body parameters and it insert that message into db at that particular day and time. (optional)😑️
