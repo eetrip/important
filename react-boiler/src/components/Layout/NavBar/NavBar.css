@@ -1,0 +1,11 @@
+.navStyle {
+  /* background-color: #36b5b0; */
+  background-color: white;
+  font-weight: bold;
+  height: 3em;
+}
+
+.alteration {
+  height: 32px;
+  margin: 0.5rem;
+}
