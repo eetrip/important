@@ -1,24 +1,8 @@
-### Description
-What:
-
-How:
-
-Link to Jira Ticket:
-
-Check this 👇 in case your changes does not have a linked Jira Ticket
-- [ ] No Jira Ticket
-
----
-
-### Change type
-- [ ] Feature request
-- [ ] Bugfix
-- [ ] Refactor
-
----
-
-### Code Checklist
-- [ ] Have you lint your code locally prior to submission?
-- [ ] Have you added tests for your changes?
-- [ ] Have you updated existing tests according to your changes?
-- [ ] Have you documented your changes?
+> <h1><font color="red">⚠️ CAUTION</font>
+>
+> <h2><font color="orange">Negative potential consequences of an action.</font>
+>
+> <h3><font color="yellow">Please verify the following before merging</font>
+>
+> - [ ] Do the change destroy any resources?
+> - [ ] Are the infrastrucure changes reviewed by atleast 2 developers? 
