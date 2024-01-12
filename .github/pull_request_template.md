@@ -1,8 +1,8 @@
-> <h1><font color="red">⚠️ CAUTION</font>
+> ⚠️ CAUTION
 >
-> <h2><font color="orange">Negative potential consequences of an action.</font>
+> Negative potential consequences of an action.
 >
-> <h3><font color="yellow">Please verify the following before merging</font>
+> Please verify the following before merging
 >
 > - [ ] Do the change destroy any resources?
 > - [ ] Are the infrastrucure changes reviewed by atleast 2 developers? 
